@@ -6,7 +6,10 @@
 
  
 body{ 
-    background-color: plum;
+
+  
+
+    background-color:plum;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
