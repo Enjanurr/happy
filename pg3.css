@@ -6,11 +6,7 @@
 
  
 body{ 
-    background-image: url("img4.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
-    background-size: cover;
+    background-color: plum;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
